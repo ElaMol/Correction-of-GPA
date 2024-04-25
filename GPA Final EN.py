@@ -1,12 +1,8 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 17 18:21:27 2024
-
 @author: ElaMolavi
 """
 import tkinter as tk
 from tkinter import messagebox
-
 
 # Create the main window
 root = tk.Tk()
